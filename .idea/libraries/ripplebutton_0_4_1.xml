@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ripplebutton-0.4.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.xgc1986.android/ripplebutton/0.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.xgc1986.android/ripplebutton/0.4.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xgc1986.android/ripplebutton/0.4.1/388e5a9df760169e806a05dd07ba05b043a8cbc3/ripplebutton-0.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void playPressed(View view) {
         //TODO: Put to start game play activity
+        Intent playIntent = new Intent("com.cs407_android.rockpaperscissors.PlayActivity");
+        startActivity(playIntent);
     }
 
     @Override

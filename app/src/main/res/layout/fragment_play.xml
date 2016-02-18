@@ -37,6 +37,7 @@
             android:text="@string/scissors"
             android:id="@+id/scissors"
             android:layout_gravity="center_horizontal" />
+
     </LinearLayout>
 
 </FrameLayout>

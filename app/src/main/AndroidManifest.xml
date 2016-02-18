@@ -28,6 +28,11 @@
             android:label="@string/title_activity_play"
             android:configChanges="orientation|keyboardHidden|screenSize"
             >
+            <intent-filter>
+                <action android:name="com.cs407_android.rockpaperscissors.PlayActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
         </activity>
     </application>
 
